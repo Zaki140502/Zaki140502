@@ -39,9 +39,9 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Te
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
+        <span><strong>Laravel</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
       </td>
     </tr>
     <tr valign="top">
