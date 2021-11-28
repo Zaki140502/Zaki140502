@@ -59,8 +59,8 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Te
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Bootstrap�</span><br><br><br>
-        <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftwbs&psig=AOvVaw2loaVJgU7GlPw_MaYfn0XY&ust=1638207388981000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC8mqLMu_QCFQAAAAAdAAAAABAD">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://i.pinimg.com/564x/32/ce/34/32ce3442146f59d52c21ead717d6d1d1.jpg">
       </td>
     </tr>
     <tr valign="top"> 
