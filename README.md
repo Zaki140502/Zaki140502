@@ -11,11 +11,11 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Te
 
 ## Coding Profiles
 
-<a href="https://www.codechef.com/users/night_king_">
+<a href="#">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-<a href="https://codeforces.com/profile/night_king_">
+<a href="#">
   <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
