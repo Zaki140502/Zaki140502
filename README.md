@@ -9,7 +9,7 @@
 Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
 
-## Coding Profiles
+## Fun Fact
 
 <a href="#">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
