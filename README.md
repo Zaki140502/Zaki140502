@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a Web Developer. Looking forward to learn new skills and add them in the list.
 
 
 ## Fun Fact
