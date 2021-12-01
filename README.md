@@ -11,13 +11,12 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim.I am a Te
 
 ## Fun Fact
 
-<a href="#">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="#">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
+- Pengen beli Mobil Sport
+- Pengen beli rumah 
+- Pengen cepet nikah samaaaa..., Eh ngga ngga salah
+- Pengen Kaya
+- Sama pengen berguna bagi agama nusa dan bangsa
+- udah itu aja si, Sekian dan terimakasih
 
 <hr/>
 
