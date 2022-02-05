@@ -16,7 +16,7 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
 - Pengen cepet nikah samaaaa..., Eh ngga ngga salah
 - Pengen Kaya
 - Sama pengen berguna bagi agama nusa dan bangsa
-- udah itu aja si, Sekian dan terimakasih
+- udah itu aja si,
 
 <hr/>
 
