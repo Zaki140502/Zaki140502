@@ -114,8 +114,7 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaki140502&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="zaki140502" /></p>
   
 ![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaki140502&theme=github_dark&show_icons=true)
-<hr>
-
+  
 <hr>
 
 </div>
