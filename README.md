@@ -13,7 +13,7 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
 
 - Pengen beli Mobil Sport
 - Pengen beli rumah 
-- Pengen cepet nikah samaaaa..., Eh ngga ngga salah
+- Pengen cepet nikah
 - Pengen Kaya
 - Sama pengen berguna bagi agama nusa dan bangsa
 - udah itu aja si,
