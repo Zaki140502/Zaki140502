@@ -95,7 +95,7 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/Zaki140502">
+  <a href="https://github.com/achmadmuzaki14">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
@@ -111,9 +111,9 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
 
 <div align = "center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaki140502&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="zaki140502" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=achmadmuzaki14&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="achmadmuzaki14" /></p>
   
-![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaki140502&theme=github_dark&show_icons=true)
+![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=achmadmuzaki14&theme=github_dark&show_icons=true)
   
 <hr>
 
@@ -123,4 +123,4 @@ Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a W
 
 
 ---
-⭐️ From [Achmad Muzaki](https://github.com/Zaki140502) 
+⭐️ From [Achmad Muzaki](https://github.com/achmadmuzaki14) 
