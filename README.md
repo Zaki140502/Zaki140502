@@ -9,14 +9,14 @@
 Hey My Name is Achmad Muzaki, I'm Student at UIN Maulana Malik Ibrahim. I am a Web Developer. Looking forward to learn new skills and add them in the list.
 
 
-## Fun Fact
+<!-- ## Fun Fact
 
 - Pengen beli Mobil Sport
 - Pengen beli rumah 
 - Pengen cepet nikah
 - Pengen Kaya
 - Sama pengen berguna bagi agama nusa dan bangsa
-- udah itu aja si,
+- udah itu aja si, -->
 
 <hr/>
 
